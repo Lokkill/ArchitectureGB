@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson2;
+package ru.geekbrains.lesson2.in;
 
 public class MySortedArrayList<E extends Comparable<E>> extends MyArrayList<E> {
 
